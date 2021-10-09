@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishabh3000
-- 👀 I’m interested in Machines as Well as Data science 
+- 👀 I’m interested in DeepLearning-models
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on Space
 - 📫 How to reach me rishabhr717@gmail.com

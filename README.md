@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh3000&theme=dark" alt="rishabh3000" />
+  <img src="https://streak-stats.demolab.com/?user=rishabh3000&theme=dark" alt="rishabh3000" />
 </p>

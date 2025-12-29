@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSUIdjC3bH2k0viZKOFvl4VVwDsqNLUA-4Q&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh3000&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh3000" /> </p>

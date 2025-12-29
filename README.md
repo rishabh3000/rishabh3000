@@ -19,8 +19,8 @@
 <p align="left">
 </p>
 
-<p><img align="left" alt=""
-Contact Number"-"9142626565" 
-"Linkedin_ID"-"https://www.linkedin.com/in/rishabh-kumar-6b959b1b9/ " "/></p>
+<p><img align="left" alt="
+Contact Number-9142626565
+Linkedin_ID-https://www.linkedin.com/in/rishabh-kumar-6b959b1b9/  "/></p>
 
 
